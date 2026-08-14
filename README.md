@@ -91,4 +91,5 @@ makemore is an autoregressive character level language model. It generates fake 
  * Algebraic Study of Latent Space:
       * https://arxiv.org/abs/1003.4394
  * word2vec
+ * [There will be a Scientific Theory of Deep Learning](https://arxiv.org/pdf/2604.21691)
 
